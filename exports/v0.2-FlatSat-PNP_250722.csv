@@ -1,0 +1,26 @@
+Designator,Comment,Package,Mid X,Mid Y,Rotation,Side
+J1,LiPo,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,-24,0,90,bottom
+J2,Conn_01x04_MountingPin,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,-14,13.35,0,bottom
+J3,Conn_01x04_MountingPin,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,-7,13.35,0,bottom
+J5,Conn_01x12_Pin,PinHeader_1x12_P2.54mm_Vertical,-13.97,-14.5,-90,bottom
+J7,Micro_SD_Card_Det2,microSD_HC_Molex_104031-0811,8,9,180,bottom
+U4,MiniMeter,MiniMeter,-10,0,-90,bottom
+AE1,u.fl to SMA Edge Mount,SMA_Amphenol_901-143_Horizontal,19,-7,-90,top
+AE2,u.fl to SMA Edge Mount,SMA_Amphenol_901-143_Horizontal,19,7,-90,top
+C1,0.1uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0.5125,-2.5,180,top
+C2,2.2uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,6.85,-2.5,180,top
+C3,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,-16.76,-14.12,180,top
+C4,0.1uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3.675,-2.5,180,top
+C5,0.1uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0.5125,1.67,180,top
+C6,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,-16.72,-12.73,180,top
+D1,SK6812MINI,LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,15,-13.5,0,top
+D2,SK6812MINI,LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,15,13.5,180,top
+J4,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Vertical,17,-1.27,90,top
+R4,4.7K,R_0603_1608Metric,-10.13,-13.53,90,top
+R5,4.7K,R_0603_1608Metric,-11.405,-13.53,90,top
+RN1,10K,R_Array_Convex_4x0603,10,0.75,0,top
+U1,Xiao,XIAO_SMT,-13.5,0,-90,top
+U2,MPU-6050 / 6500,InvenSense_QFN-24_4x4mm_P0.5mm,5.36,0.79,-90,top
+U3,BME280 /BMP280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,-13.6,-13.48,-90,top
+U5,~,Wio-SX1262,4.7,9.25,90,top
+U6,~,Wio-SX1262,4.7,-9.25,90,top
