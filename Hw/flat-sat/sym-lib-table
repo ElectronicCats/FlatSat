@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CatStick-rescue")(type "KiCad")(uri "${KIPRJMOD}/FlatSat-rescue.lib")(options "")(descr ""))
+  (lib (name "CatSniffer-rescue")(type "KiCad")(uri "${KIPRJMOD}/FlatSat-rescue.lib")(options "")(descr ""))
+)
