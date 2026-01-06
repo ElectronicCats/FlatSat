@@ -7058,6 +7058,12 @@
 		(uuid "2fdd8d6c-38d5-43e8-9af9-2f2a478ad72c")
 	)
 	(junction
+		(at 189.23 234.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d661200-990f-4ef2-8997-6269bcdd27a8")
+	)
+	(junction
 		(at 242.57 38.735)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7098,6 +7104,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a90abfa-2ee4-4664-96f8-4e90e3f5687a")
+	)
+	(junction
+		(at 185.42 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c06fae9-9fa8-4d6a-b2b0-85f750d37f1b")
 	)
 	(junction
 		(at 314.706 153.035)
@@ -7148,7 +7160,7 @@
 		(uuid "b24de196-df12-46d8-a52e-d1008dafd591")
 	)
 	(junction
-		(at 224.79 223.52)
+		(at 207.01 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4a050c3-56ed-49d5-a3b8-dd8fc36533de")
@@ -7214,6 +7226,12 @@
 		(uuid "ea7f9ed7-21dc-4e1c-b940-4f47dc983173")
 	)
 	(junction
+		(at 193.04 242.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec1ef886-132f-4c5e-ae8d-43a33a0085f6")
+	)
+	(junction
 		(at 371.221 130.937)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7226,15 +7244,15 @@
 		(uuid "f42f2be9-a80f-4d9b-8384-6571925c0c7a")
 	)
 	(no_connect
-		(at 214.63 233.68)
+		(at 196.85 240.03)
 		(uuid "1a97843c-ac0d-4d03-90c8-42fedfaac3b2")
 	)
 	(no_connect
-		(at 237.49 238.76)
+		(at 219.71 245.11)
 		(uuid "8f03db0d-dac6-41e3-9ee0-cd6f59a2c1e3")
 	)
 	(no_connect
-		(at 214.63 238.76)
+		(at 196.85 245.11)
 		(uuid "9eb6347e-f009-4e9a-9e7a-13ac17c02226")
 	)
 	(no_connect
@@ -7317,7 +7335,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 221.615) (xy 224.79 223.52)
+			(xy 207.01 227.965) (xy 207.01 229.87)
 		)
 		(stroke
 			(width 0)
@@ -7467,16 +7485,6 @@
 	)
 	(wire
 		(pts
-			(xy 127.127 169.545) (xy 127.127 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e249018-17e7-42b3-ae5d-5ebf3ae299ae")
-	)
-	(wire
-		(pts
 			(xy 278.13 219.71) (xy 278.13 220.98)
 		)
 		(stroke
@@ -7577,6 +7585,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 120.65) (xy 148.59 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1412aec8-bf81-4091-92fa-fa1fd50d8546")
+	)
+	(wire
+		(pts
 			(xy 64.389 29.21) (xy 64.389 22.733)
 		)
 		(stroke
@@ -7647,7 +7665,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 236.22) (xy 214.63 236.22)
+			(xy 187.96 242.57) (xy 193.04 242.57)
 		)
 		(stroke
 			(width 0)
@@ -7784,6 +7802,16 @@
 			(type default)
 		)
 		(uuid "22d248d7-a342-4614-b1d5-95bae9e6ed34")
+	)
+	(wire
+		(pts
+			(xy 189.23 234.95) (xy 193.04 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2474da2a-2257-46e3-9269-f7d2adfe740d")
 	)
 	(wire
 		(pts
@@ -8047,7 +8075,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 236.22) (xy 237.49 236.22)
+			(xy 223.52 242.57) (xy 219.71 242.57)
 		)
 		(stroke
 			(width 0)
@@ -8107,6 +8135,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 120.65) (xy 135.89 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39618b0f-650d-46c9-8dc0-ef4080b0a6af")
+	)
+	(wire
+		(pts
 			(xy 312.42 150.495) (xy 314.706 150.495)
 		)
 		(stroke
@@ -8144,6 +8182,16 @@
 			(type default)
 		)
 		(uuid "3a9750bc-f183-41db-b5d2-6bf89a951d91")
+	)
+	(wire
+		(pts
+			(xy 227.33 248.92) (xy 227.33 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b1b5031-ef98-447e-9656-c6ced4d31111")
 	)
 	(wire
 		(pts
@@ -8447,6 +8495,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 247.65) (xy 196.85 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "510c7ea5-fc22-4944-ac90-078dabe840f3")
+	)
+	(wire
+		(pts
 			(xy 280.67 153.035) (xy 284.48 153.035)
 		)
 		(stroke
@@ -8454,6 +8512,16 @@
 			(type default)
 		)
 		(uuid "510fab81-491f-4092-bb83-fa709721fa27")
+	)
+	(wire
+		(pts
+			(xy 193.04 234.95) (xy 193.04 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532f098b-da56-4782-99a5-748a6638699a")
 	)
 	(wire
 		(pts
@@ -8667,13 +8735,23 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 251.46) (xy 224.79 252.73)
+			(xy 207.01 257.81) (xy 207.01 259.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "61ee497e-6fa9-447d-95b4-949f3b7e4993")
+	)
+	(wire
+		(pts
+			(xy 193.04 241.3) (xy 193.04 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a8cd60-dcc3-443e-9643-f16a42e56166")
 	)
 	(wire
 		(pts
@@ -8797,16 +8875,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.033 172.466) (xy 137.033 169.291)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d0c9e39-9878-44c8-8283-9a59e45006fa")
-	)
-	(wire
-		(pts
 			(xy 320.04 43.815) (xy 320.04 46.355)
 		)
 		(stroke
@@ -8897,16 +8965,6 @@
 	)
 	(wire
 		(pts
-			(xy 127.127 187.452) (xy 127.127 185.801)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f8d568-0f23-4ff2-8e60-1600ce517a48")
-	)
-	(wire
-		(pts
 			(xy 279.4 48.895) (xy 283.21 48.895)
 		)
 		(stroke
@@ -8924,6 +8982,16 @@
 			(type default)
 		)
 		(uuid "7214683f-41f8-4167-bed9-621078468ab2")
+	)
+	(wire
+		(pts
+			(xy 185.42 241.3) (xy 185.42 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72a6d356-7f15-4858-8770-0fd6eec1c383")
 	)
 	(polyline
 		(pts
@@ -8984,6 +9052,16 @@
 			(type default)
 		)
 		(uuid "78a28d0c-fcad-4acb-92ea-191039461090")
+	)
+	(wire
+		(pts
+			(xy 185.42 234.95) (xy 189.23 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78bc98fc-21e1-4af4-ace7-37cbf351c7e7")
 	)
 	(wire
 		(pts
@@ -9057,23 +9135,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 223.52) (xy 224.79 226.06)
+			(xy 207.01 229.87) (xy 207.01 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7b5b82a6-8935-4c90-a559-c75586180406")
-	)
-	(wire
-		(pts
-			(xy 127.127 180.721) (xy 127.127 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c00778a-4692-4f9b-87d5-2d355077ce1e")
 	)
 	(wire
 		(pts
@@ -9127,7 +9195,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 241.3) (xy 214.63 241.3)
+			(xy 180.34 247.65) (xy 185.42 247.65)
 		)
 		(stroke
 			(width 0)
@@ -9144,6 +9212,16 @@
 			(type default)
 		)
 		(uuid "80ad6620-4d7b-4f84-b364-88c1eca9e002")
+	)
+	(wire
+		(pts
+			(xy 147.32 106.68) (xy 149.86 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "817f2f85-0916-4584-81de-817636acef0d")
 	)
 	(wire
 		(pts
@@ -9274,6 +9352,16 @@
 			(type default)
 		)
 		(uuid "8aff0f38-92a8-45ec-b106-b185e93ca3fd")
+	)
+	(wire
+		(pts
+			(xy 149.86 106.68) (xy 149.86 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b624454-47fe-44a0-959a-011c389db525")
 	)
 	(wire
 		(pts
@@ -9507,16 +9595,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.033 180.467) (xy 137.033 177.546)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c607e49-ee5c-4e85-a7da-6fede9912412")
-	)
-	(wire
-		(pts
 			(xy 124.46 254) (xy 124.46 256.54)
 		)
 		(stroke
@@ -9534,6 +9612,16 @@
 			(type default)
 		)
 		(uuid "9cb0d1ce-ce63-4e07-9769-c3078ebd3be7")
+	)
+	(wire
+		(pts
+			(xy 193.04 242.57) (xy 196.85 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d384c5d-6244-41fa-8194-772d9f3eadfe")
 	)
 	(wire
 		(pts
@@ -9754,6 +9842,16 @@
 			(type default)
 		)
 		(uuid "aa3e6b99-6d38-4ac5-9edd-9415324c272e")
+	)
+	(wire
+		(pts
+			(xy 189.23 232.41) (xy 189.23 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab8a246a-d978-4246-926b-4fbd96404dff")
 	)
 	(wire
 		(pts
@@ -10337,6 +10435,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 246.38) (xy 185.42 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ced02d23-f5a3-4fc5-bce1-e206f7c6e0e4")
+	)
+	(wire
+		(pts
 			(xy 250.19 38.735) (xy 252.73 38.735)
 		)
 		(stroke
@@ -10567,7 +10675,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 226.06) (xy 227.33 223.52)
+			(xy 209.55 232.41) (xy 209.55 229.87)
 		)
 		(stroke
 			(width 0)
@@ -10614,6 +10722,16 @@
 			(type default)
 		)
 		(uuid "e2ff188c-8e96-4f6e-98a4-0fa8723c8d97")
+	)
+	(wire
+		(pts
+			(xy 227.33 256.54) (xy 227.33 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e348bbb1-c184-4d17-b81c-ded30f0da91a")
 	)
 	(wire
 		(pts
@@ -10677,6 +10795,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 120.65) (xy 148.59 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4f1fa1b-3210-4a72-9522-808ca0f69041")
+	)
+	(wire
+		(pts
 			(xy 313.436 51.435) (xy 313.436 55.753)
 		)
 		(stroke
@@ -10687,16 +10815,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.033 187.452) (xy 137.033 185.547)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5e5220d-5b7e-47da-a902-b997ec8d4d58")
-	)
-	(wire
-		(pts
 			(xy 111.76 27.94) (xy 111.76 24.13)
 		)
 		(stroke
@@ -10704,6 +10822,16 @@
 			(type default)
 		)
 		(uuid "e69c64f9-717d-4a97-b3df-80325ec2fa63")
+	)
+	(wire
+		(pts
+			(xy 130.81 106.68) (xy 137.16 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6b753a1-55cb-4f17-b2f3-28c2bd2875e8")
 	)
 	(wire
 		(pts
@@ -10827,7 +10955,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 223.52) (xy 224.79 223.52)
+			(xy 209.55 229.87) (xy 207.01 229.87)
 		)
 		(stroke
 			(width 0)
@@ -11185,16 +11313,6 @@
 		)
 		(uuid "0176608f-7910-4106-900a-707bd52662fb")
 	)
-	(label "LED1"
-		(at 127.127 169.545 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "01f82238-6335-48fe-8b0a-6853e227345a")
-	)
 	(label "R1_RST"
 		(at 185.547 170.815 0)
 		(effects
@@ -11314,6 +11432,16 @@
 			(justify left bottom)
 		)
 		(uuid "1e2a47d7-31c7-4d7b-bfaa-98aa2c16cf7a")
+	)
+	(label "Butt_1"
+		(at 130.81 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20a12bd4-dd31-4b02-a1fa-6b038d297e04")
 	)
 	(label "QSPI_SD2"
 		(at 29.21 199.39 0)
@@ -11485,7 +11613,7 @@
 		)
 		(uuid "3fd16e06-4136-458e-82a0-71ab9e5bcdee")
 	)
-	(label "LED3"
+	(label "Butt_2"
 		(at 104.14 209.55 180)
 		(effects
 			(font
@@ -11594,6 +11722,16 @@
 			(justify left bottom)
 		)
 		(uuid "65e53d70-b585-49fd-82da-530c2bd8dbd6")
+	)
+	(label "Butt_2"
+		(at 130.81 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "66d11195-3ccc-4165-9924-18480e674c38")
 	)
 	(label "QSPI_SD0"
 		(at 68.58 109.22 180)
@@ -11706,7 +11844,7 @@
 		(uuid "7e4a7315-8910-4d1b-a60b-4d399c9a9985")
 	)
 	(label "SCL"
-		(at 210.82 241.3 0)
+		(at 180.34 247.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11925,7 +12063,7 @@
 		)
 		(uuid "b5bb9aa2-e94c-4212-89c2-8d043b43f18a")
 	)
-	(label "LED2"
+	(label "Butt_1"
 		(at 104.14 207.01 180)
 		(effects
 			(font
@@ -11936,7 +12074,7 @@
 		(uuid "b7814caf-923c-4b09-8c5a-8b745541968d")
 	)
 	(label "INT1"
-		(at 241.3 236.22 180)
+		(at 223.52 242.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11966,7 +12104,7 @@
 		(uuid "c6c3a92b-870a-441c-bf01-c46480ee0992")
 	)
 	(label "SDA"
-		(at 210.82 236.22 0)
+		(at 187.96 242.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12095,16 +12233,6 @@
 		)
 		(uuid "e27a27dc-ea3d-46d4-95d1-caa4871eca7e")
 	)
-	(label "LED2"
-		(at 137.033 169.291 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e300709f-6c72-488d-a598-efcbd6d3af54")
-	)
 	(label "R0_DIO1"
 		(at 241.808 66.675 180)
 		(effects
@@ -12205,7 +12333,7 @@
 		)
 		(uuid "fbcaf247-7778-44c0-8bee-188b77883c6c")
 	)
-	(label "LED3"
+	(label "LED1"
 		(at 147.32 169.164 90)
 		(effects
 			(font
@@ -12252,7 +12380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.8548 29.21 0)
 			(effects
 				(font
@@ -12261,7 +12389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810161109_FH--Guangdong-Fenghua-Advanced-Tech-0603F105M500NT_C108343.pdf"
+		(property "Datasheet" ""
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -12279,7 +12407,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "0603F105M500NT"
+		(property "manf#" ""
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -12297,7 +12425,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C108343"
+		(property "LCSC#" "C52923 "
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -12357,7 +12485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 108.2548 29.21 0)
 			(effects
 				(font
@@ -12366,7 +12494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -12384,7 +12512,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -12402,7 +12530,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -12714,7 +12842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "bast-wan:SMA_EDGE"
+		(property "Footprint" "FlatSat:SMA_EDGE"
 			(at 393.7 26.67 0)
 			(effects
 				(font
@@ -12723,7 +12851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2005121202_Shenzhen-Kinghelm-Elec-KH-SMA-KE8-G_C530661.pdf"
+		(property "Datasheet" ""
 			(at 393.7 26.67 0)
 			(effects
 				(font
@@ -12750,7 +12878,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "KH-SMA-KE8-G"
+		(property "manf#" ""
 			(at 393.7 26.67 0)
 			(effects
 				(font
@@ -12918,7 +13046,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "TLV75733PDBVR"
+		(property "manf#" ""
 			(at 97.79 30.48 0)
 			(effects
 				(font
@@ -13069,7 +13197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CatSniffer:0900FM15D0039E"
+		(property "Footprint" "FlatSat:0900FM15D0039E"
 			(at 304.8 42.545 0)
 			(effects
 				(font
@@ -13429,7 +13557,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "TS-1088R-02526"
+		(property "manf#" ""
 			(at 107.95 124.46 0)
 			(effects
 				(font
@@ -13602,552 +13730,6 @@
 		)
 	)
 	(symbol
-		(lib_id "CatSniffer-rescue:LED_Small-Device-CatStick-rescue-CatSniffer-rescue")
-		(at 127.127 175.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006087770b")
-		(property "Reference" "D3"
-			(at 128.905 174.0916 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 128.905 176.403 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 127.127 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2006011837_TONYU-DY-0603HBC-L-SMG_C524045.pdf"
-			(at 127.127 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127.127 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C524045"
-			(at 127.127 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "CL10C120JB81PNC"
-			(at 127.127 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "LCSC"
-			(at 127.127 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" ""
-			(at 127.127 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e5e10b7e-d4e1-472a-acd2-b7ba1a3292f0")
-		)
-		(pin "2"
-			(uuid "90a47af4-b3af-42ad-8a92-2ac33f1eaf7d")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CatSniffer-rescue:R_Small-Device-CatStick-rescue-CatSniffer-rescue")
-		(at 127.127 183.261 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000060877b07")
-		(property "Reference" "R12"
-			(at 130.175 182.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "330"
-			(at 130.048 184.277 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Viking-Tech-AR03BTB3300_C408915.pdf"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C408915"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "AR03BTB3300"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "LCSC"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" "C705847"
-			(at 127.127 183.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b29fb2cb-e4b7-4450-8086-3c4d31478159")
-		)
-		(pin "2"
-			(uuid "e69b829b-c0b7-43a9-80d0-4376f3776ee0")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CatSniffer-rescue:GND-power-CatStick-rescue-CatSniffer-rescue")
-		(at 127.127 187.452 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006089575c")
-		(property "Reference" "#PWR059"
-			(at 127.127 193.802 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127.254 191.8462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127.127 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127.127 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127.127 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "510813ff-4301-4d7b-b640-805049ac6194")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CatSniffer-rescue:LED_Small-Device-CatStick-rescue-CatSniffer-rescue")
-		(at 137.033 175.006 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006092ab5a")
-		(property "Reference" "D2"
-			(at 138.811 173.8376 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 138.811 176.149 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 137.033 175.006 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2006011837_TONYU-DY-0603HBC-L-SMG_C524045.pdf"
-			(at 137.033 175.006 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 137.033 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C524045"
-			(at 137.033 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "CL10C120JB81PNC"
-			(at 137.033 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "LCSC"
-			(at 137.033 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" ""
-			(at 137.033 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "570ee06f-38f1-44a9-ae2b-f08cf56305e0")
-		)
-		(pin "2"
-			(uuid "8aff71fc-0b55-4238-837c-95b0b4aac181")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CatSniffer-rescue:R_Small-Device-CatStick-rescue-CatSniffer-rescue")
-		(at 137.033 183.007 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006092af39")
-		(property "Reference" "R11"
-			(at 139.827 182.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "330"
-			(at 139.954 184.277 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Viking-Tech-AR03BTB3300_C408915.pdf"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C408915"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "AR03BTB3300"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "LCSC"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" "C705847"
-			(at 137.033 183.007 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8524da93-8e55-4af1-8974-d6a0c4c21263")
-		)
-		(pin "2"
-			(uuid "dfe0615d-48dd-4d5e-ae77-f5a2410688c9")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CatSniffer-rescue:GND-power-CatStick-rescue-CatSniffer-rescue")
-		(at 137.033 187.452 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006092b333")
-		(property "Reference" "#PWR060"
-			(at 137.033 193.802 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 137.16 191.8462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.033 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.033 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 137.033 187.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae2d0972-d851-4e32-b78e-a1894c29cfe1")
-		)
-		(instances
-			(project "CatSniffer"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "#PWR060")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CatSniffer-rescue:L-Device-CatStick-rescue-CatSniffer-rescue")
 		(at 375.412 26.797 270)
 		(mirror x)
@@ -14218,7 +13800,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "VHF160808H9N1JT"
+		(property "manf#" ""
 			(at 375.412 26.797 0)
 			(effects
 				(font
@@ -14285,7 +13867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connectors:C393939"
+		(property "Footprint" "FlatSat:C393939"
 			(at 31.75 44.45 0)
 			(effects
 				(font
@@ -14321,7 +13903,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "KH-TYPE-C-16P"
+		(property "manf#" ""
 			(at 27.94 44.45 0)
 			(effects
 				(font
@@ -14423,7 +14005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 365.506 25.8318 0)
 			(effects
 				(font
@@ -14432,7 +14014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151136_Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf"
+		(property "Datasheet" ""
 			(at 361.696 26.797 0)
 			(effects
 				(font
@@ -14459,7 +14041,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14858"
+		(property "LCSC#" "C541374"
 			(at 361.696 26.797 0)
 			(effects
 				(font
@@ -14468,7 +14050,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10C101JB8NNNC"
+		(property "manf#" ""
 			(at 361.696 26.797 0)
 			(effects
 				(font
@@ -14641,7 +14223,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "TS-1088R-02526"
+		(property "manf#" ""
 			(at 107.95 106.68 0)
 			(effects
 				(font
@@ -14773,7 +14355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 34.29 0)
 			(effects
 				(font
@@ -14800,7 +14382,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319561"
+		(property "LCSC#" "C25905"
 			(at 48.26 34.29 0)
 			(effects
 				(font
@@ -14809,7 +14391,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "AR03DTCX5101"
+		(property "manf#" ""
 			(at 48.26 34.29 0)
 			(effects
 				(font
@@ -14878,7 +14460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 36.83 0)
 			(effects
 				(font
@@ -14905,7 +14487,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C319561"
+		(property "LCSC#" "C25905"
 			(at 48.26 36.83 0)
 			(effects
 				(font
@@ -14914,7 +14496,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "AR03DTCX5101"
+		(property "manf#" ""
 			(at 48.26 36.83 0)
 			(effects
 				(font
@@ -15038,7 +14620,7 @@
 				)
 			)
 		)
-		(property "Value" "0.5A"
+		(property "Value" "0.75A"
 			(at 52.832 26.8224 0)
 			(effects
 				(font
@@ -15046,7 +14628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 52.832 29.21 0)
 			(effects
 				(font
@@ -15055,7 +14637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/427/mfuserie-1762582.pdf"
+		(property "Datasheet" ""
 			(at 52.832 29.21 0)
 			(effects
 				(font
@@ -15082,7 +14664,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MFU0805FF00500P100"
+		(property "manf#" ""
 			(at 52.832 29.21 0)
 			(effects
 				(font
@@ -15101,6 +14683,15 @@
 			)
 		)
 		(property "Remplazos" ""
+			(at 52.832 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C182438"
 			(at 52.832 29.21 0)
 			(effects
 				(font
@@ -15150,7 +14741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 358.394 60.071 0)
 			(effects
 				(font
@@ -15177,7 +14768,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C700506"
+		(property "LCSC#" "C25076"
 			(at 358.394 60.071 0)
 			(effects
 				(font
@@ -15186,7 +14777,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RT0603DRD07100RL"
+		(property "manf#" ""
 			(at 358.394 60.071 0)
 			(effects
 				(font
@@ -15256,7 +14847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 352.298 63.754 0)
 			(effects
 				(font
@@ -15265,7 +14856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf"
+		(property "Datasheet" ""
 			(at 352.298 63.754 0)
 			(effects
 				(font
@@ -15292,7 +14883,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1588"
+		(property "LCSC#" "C710873 "
 			(at 352.298 63.754 0)
 			(effects
 				(font
@@ -15301,7 +14892,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10B102KB8NNNC"
+		(property "manf#" ""
 			(at 352.298 63.754 0)
 			(effects
 				(font
@@ -15370,7 +14961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2006011837_TONYU-DY-0603HBC-L-SMG_C524045.pdf"
+		(property "Datasheet" ""
 			(at 147.32 174.625 90)
 			(effects
 				(font
@@ -15397,7 +14988,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10C120JB81PNC"
+		(property "manf#" ""
 			(at 147.32 174.625 0)
 			(effects
 				(font
@@ -15500,7 +15091,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "AR03BTB3300"
+		(property "manf#" ""
 			(at 147.32 182.626 0)
 			(effects
 				(font
@@ -15633,7 +15224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 370.84 44.958 0)
 			(effects
 				(font
@@ -15660,7 +15251,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C700506"
+		(property "LCSC#" "C25076"
 			(at 370.84 44.958 0)
 			(effects
 				(font
@@ -15669,7 +15260,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RT0603DRD07100RL"
+		(property "manf#" ""
 			(at 370.84 44.958 0)
 			(effects
 				(font
@@ -15829,7 +15420,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "-"
+		(property "LCSC#" "C470893"
 			(at 340.36 46.355 0)
 			(effects
 				(font
@@ -16057,6 +15648,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C191341"
+			(at 214.63 160.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "395a7cab-f11c-4cd0-85b0-eaa202e98da6")
 		)
@@ -16169,7 +15769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 285.75 226.06 0)
 			(effects
 				(font
@@ -16254,7 +15854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/Taiyo_Yuden_MSRLJ103SB5105MFNA01_SS-3011293.pdf"
+		(property "Datasheet" ""
 			(at 137.16 228.6 0)
 			(effects
 				(font
@@ -16272,7 +15872,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C52923 "
 			(at 137.16 228.6 0)
 			(effects
 				(font
@@ -16281,7 +15881,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSRLJ103SB5105MFNA01"
+		(property "manf#" ""
 			(at 137.16 228.6 0)
 			(effects
 				(font
@@ -16358,7 +15958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 372.11 149.098 0)
 			(effects
 				(font
@@ -16385,7 +15985,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C700506"
+		(property "LCSC#" "C25076"
 			(at 372.11 149.098 0)
 			(effects
 				(font
@@ -16394,7 +15994,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RT0603DRD07100RL"
+		(property "manf#" ""
 			(at 372.11 149.098 0)
 			(effects
 				(font
@@ -16503,7 +16103,7 @@
 	)
 	(symbol
 		(lib_id "CatSniffer-rescue:GND-power-CatStick-rescue-CatSniffer-rescue")
-		(at 224.79 252.73 0)
+		(at 207.01 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16511,7 +16111,7 @@
 		(dnp no)
 		(uuid "0e1fa6c8-b3c7-453b-a9e3-3e7bb26e3607")
 		(property "Reference" "#PWR086"
-			(at 224.79 259.08 0)
+			(at 207.01 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16520,7 +16120,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 224.917 257.1242 0)
+			(at 207.137 263.4742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16528,7 +16128,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 224.79 252.73 0)
+			(at 207.01 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16537,7 +16137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 252.73 0)
+			(at 207.01 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16546,7 +16146,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 224.79 252.73 0)
+			(at 207.01 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16732,7 +16332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/281/GJM1555C1H270FB01_01-1973006.pdf"
+		(property "Datasheet" ""
 			(at 26.67 232.41 0)
 			(effects
 				(font
@@ -16750,7 +16350,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C424826"
 			(at 26.67 232.41 0)
 			(effects
 				(font
@@ -16759,7 +16359,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GJM1555C1H270FB01D"
+		(property "manf#" ""
 			(at 26.67 232.41 0)
 			(effects
 				(font
@@ -16847,7 +16447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 125.73 228.6 0)
 			(effects
 				(font
@@ -16865,7 +16465,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 125.73 228.6 0)
 			(effects
 				(font
@@ -16874,7 +16474,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 125.73 228.6 0)
 			(effects
 				(font
@@ -16962,7 +16562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 134.62 251.46 0)
 			(effects
 				(font
@@ -16980,7 +16580,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 134.62 251.46 0)
 			(effects
 				(font
@@ -16989,7 +16589,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 134.62 251.46 0)
 			(effects
 				(font
@@ -17271,7 +16871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/Taiyo_Yuden_MSRLJ103SB5105MFNA01_SS-3011293.pdf"
+		(property "Datasheet" ""
 			(at 115.57 251.46 0)
 			(effects
 				(font
@@ -17289,7 +16889,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C52923 "
 			(at 115.57 251.46 0)
 			(effects
 				(font
@@ -17298,7 +16898,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSRLJ103SB5105MFNA01"
+		(property "manf#" ""
 			(at 115.57 251.46 0)
 			(effects
 				(font
@@ -17443,7 +17043,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 353.568 167.894 0)
 			(effects
 				(font
@@ -17452,7 +17052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf"
+		(property "Datasheet" ""
 			(at 353.568 167.894 0)
 			(effects
 				(font
@@ -17479,7 +17079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1588"
+		(property "LCSC#" "C710873 "
 			(at 353.568 167.894 0)
 			(effects
 				(font
@@ -17488,7 +17088,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10B102KB8NNNC"
+		(property "manf#" ""
 			(at 353.568 167.894 0)
 			(effects
 				(font
@@ -17743,7 +17343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 237.49 42.545 0)
 			(effects
 				(font
@@ -17752,7 +17352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 237.49 42.545 0)
 			(effects
 				(font
@@ -17770,7 +17370,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 237.49 42.545 0)
 			(effects
 				(font
@@ -17779,7 +17379,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 237.49 42.545 0)
 			(effects
 				(font
@@ -17884,7 +17484,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SCHF160808H47NJT"
+		(property "manf#" ""
 			(at 247.65 38.735 0)
 			(effects
 				(font
@@ -18018,7 +17618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "bast-wan:SMA_EDGE"
+		(property "Footprint" "FlatSat:SMA_EDGE"
 			(at 394.97 130.81 0)
 			(effects
 				(font
@@ -18027,7 +17627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2005121202_Shenzhen-Kinghelm-Elec-KH-SMA-KE8-G_C530661.pdf"
+		(property "Datasheet" ""
 			(at 394.97 130.81 0)
 			(effects
 				(font
@@ -18054,7 +17654,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "KH-SMA-KE8-G"
+		(property "manf#" ""
 			(at 394.97 130.81 0)
 			(effects
 				(font
@@ -18123,7 +17723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 238.76 146.685 0)
 			(effects
 				(font
@@ -18132,7 +17732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 238.76 146.685 0)
 			(effects
 				(font
@@ -18150,7 +17750,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 238.76 146.685 0)
 			(effects
 				(font
@@ -18159,7 +17759,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 238.76 146.685 0)
 			(effects
 				(font
@@ -18449,7 +18049,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C25100"
 			(at 36.83 177.8 0)
 			(effects
 				(font
@@ -18458,7 +18058,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "ESR01MZPF27R0"
+		(property "manf#" ""
 			(at 36.83 177.8 0)
 			(effects
 				(font
@@ -18797,7 +18397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 366.522 152.273 0)
 			(effects
 				(font
@@ -18806,7 +18406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf"
+		(property "Datasheet" ""
 			(at 366.522 152.273 0)
 			(effects
 				(font
@@ -18833,7 +18433,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1588"
+		(property "LCSC#" "C710873 "
 			(at 366.522 152.273 0)
 			(effects
 				(font
@@ -18842,7 +18442,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10B102KB8NNNC"
+		(property "manf#" ""
 			(at 366.522 152.273 0)
 			(effects
 				(font
@@ -18967,7 +18567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 242.57 42.545 0)
 			(effects
 				(font
@@ -18976,7 +18576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2006011835_YAGEO-CC0603FRNPO9BN470_C519486.pdf"
+		(property "Datasheet" ""
 			(at 242.57 42.545 0)
 			(effects
 				(font
@@ -19003,7 +18603,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C519486"
+		(property "LCSC#" "C437519"
 			(at 242.57 42.545 0)
 			(effects
 				(font
@@ -19012,7 +18612,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603FRNPO9BN470"
+		(property "manf#" ""
 			(at 242.57 42.545 0)
 			(effects
 				(font
@@ -19108,7 +18708,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SCHF160808H47NJT"
+		(property "manf#" ""
 			(at 248.92 142.875 0)
 			(effects
 				(font
@@ -19216,6 +18816,71 @@
 		)
 	)
 	(symbol
+		(lib_id "CatSniffer-rescue:GND-power-CatStick-rescue-CatSniffer-rescue")
+		(at 149.86 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f2997a7-6567-4b60-b6b1-30f4c0974ac2")
+		(property "Reference" "#PWR059"
+			(at 149.86 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.987 112.3442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a7025c5-915c-4e43-91c5-7d83e76510e2")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CatSniffer-rescue:L_Small-Device-CatStick-rescue-CatSniffer-rescue")
 		(at 237.49 57.785 90)
 		(unit 1)
@@ -19276,7 +18941,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SDFL1608T150KTF"
+		(property "manf#" ""
 			(at 237.49 57.785 0)
 			(effects
 				(font
@@ -19345,7 +19010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 251.46 166.37 0)
 			(effects
 				(font
@@ -19354,7 +19019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810191213_Samsung-Electro-Mechanics-CL10A474KB8NNNC_C170149.pdf"
+		(property "Datasheet" ""
 			(at 251.46 166.37 0)
 			(effects
 				(font
@@ -19381,7 +19046,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C170149"
+		(property "LCSC#" "C47339"
 			(at 251.46 166.37 0)
 			(effects
 				(font
@@ -19390,7 +19055,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10A474KB8NNNC"
+		(property "manf#" ""
 			(at 251.46 166.37 0)
 			(effects
 				(font
@@ -19801,7 +19466,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "-"
+		(property "LCSC#" "C470893"
 			(at 341.63 150.495 0)
 			(effects
 				(font
@@ -20108,7 +19773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 359.664 164.211 0)
 			(effects
 				(font
@@ -20135,7 +19800,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C700506"
+		(property "LCSC#" "C25076"
 			(at 359.664 164.211 0)
 			(effects
 				(font
@@ -20144,7 +19809,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RT0603DRD07100RL"
+		(property "manf#" ""
 			(at 359.664 164.211 0)
 			(effects
 				(font
@@ -20253,7 +19918,7 @@
 	)
 	(symbol
 		(lib_id "CatSniffer-rescue:+3V3-power-CatStick-rescue-CatSniffer-rescue")
-		(at 224.79 221.615 0)
+		(at 207.01 227.965 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20261,7 +19926,7 @@
 		(dnp no)
 		(uuid "5ad10cf1-c231-4cac-b79c-32d9fdd12839")
 		(property "Reference" "#PWR064"
-			(at 224.79 225.425 0)
+			(at 207.01 231.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20270,7 +19935,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 225.171 217.2208 0)
+			(at 207.391 223.5708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20278,7 +19943,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 224.79 221.615 0)
+			(at 207.01 227.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20287,7 +19952,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 221.615 0)
+			(at 207.01 227.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20296,7 +19961,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 224.79 221.615 0)
+			(at 207.01 227.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20408,7 +20073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 372.1862 139.827 0)
 			(effects
 				(font
@@ -20417,7 +20082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311132_Murata-Electronics-GRM1885C1H3R3CA01D_C162225.pdf"
+		(property "Datasheet" ""
 			(at 371.221 136.017 0)
 			(effects
 				(font
@@ -20435,7 +20100,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM1885C1H3R3CA01D"
+		(property "manf#" ""
 			(at 371.221 136.017 0)
 			(effects
 				(font
@@ -20453,7 +20118,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C162225"
+		(property "LCSC#" "C1565"
 			(at 371.221 136.017 0)
 			(effects
 				(font
@@ -20481,6 +20146,186 @@
 			(project "CatSniffer"
 				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CatSniffer-rescue:GND-power-CatStick-rescue-CatSniffer-rescue")
+		(at 148.59 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5dd345bd-9d09-4a5d-96a0-89b00499cde1")
+		(property "Reference" "#PWR060"
+			(at 148.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.717 126.3142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 148.59 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b0a012b-25a5-4074-8bd0-e0423772e45e")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 227.33 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "64c76713-3355-436f-ad3d-4d4b89b2f014")
+		(property "Reference" "C37"
+			(at 229.87 252.7362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 229.87 255.2762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C56392"
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "provedor" "Mouser"
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser#" "963-MSAST105SB7104KF"
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remplazos" ""
+			(at 227.33 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "096750c1-6b9b-4e6d-b7be-5792944c54f0")
+		)
+		(pin "2"
+			(uuid "589d0216-91a1-4fe3-9d4e-79066772935f")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -20553,7 +20398,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Motion:LIS2DH")
-		(at 224.79 238.76 0)
+		(at 207.01 245.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20562,7 +20407,7 @@
 		(fields_autoplaced yes)
 		(uuid "68ae2b37-a53b-492b-9e00-d67866cdfd28")
 		(property "Reference" "U10"
-			(at 226.9333 251.46 0)
+			(at 209.1533 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20571,7 +20416,7 @@
 			)
 		)
 		(property "Value" "LIS2DH"
-			(at 226.9333 254 0)
+			(at 209.1533 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20580,7 +20425,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y"
-			(at 224.79 250.19 0)
+			(at 207.01 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20589,7 +20434,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.st.com/web/en/resource/technical/document/datasheet/DM00042751.pdf"
-			(at 224.79 254 0)
+			(at 207.01 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20598,7 +20443,7 @@
 			)
 		)
 		(property "Description" "3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-14"
-			(at 224.79 238.76 0)
+			(at 207.01 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20607,7 +20452,7 @@
 			)
 		)
 		(property "LCSC#" "C110926"
-			(at 224.79 238.76 0)
+			(at 207.01 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20955,7 +20800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -20964,7 +20809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810191213_Samsung-Electro-Mechanics-CL10A474KB8NNNC_C170149.pdf"
+		(property "Datasheet" ""
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -20991,7 +20836,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C170149"
+		(property "LCSC#" "C47339"
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -21000,7 +20845,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10A474KB8NNNC"
+		(property "manf#" ""
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -21125,7 +20970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CatSniffer:0900FM15D0039E"
+		(property "Footprint" "FlatSat:0900FM15D0039E"
 			(at 306.07 146.685 0)
 			(effects
 				(font
@@ -21581,7 +21426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 182.372 140.081 0)
 			(effects
 				(font
@@ -21590,7 +21435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 182.372 140.081 0)
 			(effects
 				(font
@@ -21608,7 +21453,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 182.372 140.081 0)
 			(effects
 				(font
@@ -21617,7 +21462,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 182.372 140.081 0)
 			(effects
 				(font
@@ -21762,7 +21607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 154.94 251.46 0)
 			(effects
 				(font
@@ -21780,7 +21625,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 154.94 251.46 0)
 			(effects
 				(font
@@ -21789,7 +21634,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 154.94 251.46 0)
 			(effects
 				(font
@@ -21867,7 +21712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 366.776 129.9718 0)
 			(effects
 				(font
@@ -21876,7 +21721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151136_Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf"
+		(property "Datasheet" ""
 			(at 362.966 130.937 0)
 			(effects
 				(font
@@ -21903,7 +21748,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14858"
+		(property "LCSC#" "C541374"
 			(at 362.966 130.937 0)
 			(effects
 				(font
@@ -21912,7 +21757,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10C101JB8NNNC"
+		(property "manf#" ""
 			(at 362.966 130.937 0)
 			(effects
 				(font
@@ -22580,6 +22425,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C191341"
+			(at 213.36 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf2b2df2-aed2-4361-b807-85bc932ba4b1")
 		)
@@ -22756,7 +22610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 181.102 35.941 0)
 			(effects
 				(font
@@ -22765,7 +22619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 181.102 35.941 0)
 			(effects
 				(font
@@ -22783,7 +22637,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 181.102 35.941 0)
 			(effects
 				(font
@@ -22792,7 +22646,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 181.102 35.941 0)
 			(effects
 				(font
@@ -23001,7 +22855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 72.39 114.3 0)
 			(effects
 				(font
@@ -23019,7 +22873,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 72.39 114.3 0)
 			(effects
 				(font
@@ -23028,7 +22882,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 72.39 114.3 0)
 			(effects
 				(font
@@ -23106,7 +22960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 243.84 146.685 0)
 			(effects
 				(font
@@ -23115,7 +22969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2006011835_YAGEO-CC0603FRNPO9BN470_C519486.pdf"
+		(property "Datasheet" ""
 			(at 243.84 146.685 0)
 			(effects
 				(font
@@ -23142,7 +22996,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C519486"
+		(property "LCSC#" "C437519"
 			(at 243.84 146.685 0)
 			(effects
 				(font
@@ -23151,7 +23005,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603FRNPO9BN470"
+		(property "manf#" ""
 			(at 243.84 146.685 0)
 			(effects
 				(font
@@ -23278,7 +23132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CatSniffer:W25Q16JVUUIQ"
+		(property "Footprint" "Package_SON:Winbond_USON-8-2EP_3x4mm_P0.8mm_EP0.2x0.8mm"
 			(at 44.45 114.3 0)
 			(effects
 				(font
@@ -23333,6 +23187,15 @@
 			)
 		)
 		(property "Remplazos" ""
+			(at 44.45 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C571259"
 			(at 44.45 114.3 0)
 			(effects
 				(font
@@ -23411,7 +23274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 165.1 251.46 0)
 			(effects
 				(font
@@ -23429,7 +23292,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 165.1 251.46 0)
 			(effects
 				(font
@@ -23438,7 +23301,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 165.1 251.46 0)
 			(effects
 				(font
@@ -23667,6 +23530,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 227.33 259.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a2493051-ef70-4e67-9588-e9f8e19cdcb1")
+		(property "Reference" "#PWR097"
+			(at 227.33 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb25fd62-7c86-472c-8eed-e12d8db4d5a5")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 41.91 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23797,6 +23725,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 227.33 248.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a829d64f-33f8-44d0-a1d3-3ae47fffeda4")
+		(property "Reference" "#PWR096"
+			(at 227.33 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 227.33 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1d3de1d-10d4-46da-b096-8445da7266e5")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "#PWR096")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CatSniffer-rescue:C_Small-Device-CatStick-rescue-CatSniffer-rescue")
 		(at 248.92 126.365 0)
 		(unit 1)
@@ -23823,7 +23816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 248.92 126.365 0)
 			(effects
 				(font
@@ -23832,7 +23825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 248.92 126.365 0)
 			(effects
 				(font
@@ -23859,7 +23852,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 248.92 126.365 0)
 			(effects
 				(font
@@ -23868,7 +23861,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 248.92 126.365 0)
 			(effects
 				(font
@@ -24406,7 +24399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 146.05 228.6 0)
 			(effects
 				(font
@@ -24424,7 +24417,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 146.05 228.6 0)
 			(effects
 				(font
@@ -24433,7 +24426,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 146.05 228.6 0)
 			(effects
 				(font
@@ -24485,6 +24478,120 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b920ff96-78fc-4ff1-b2a0-6595d91c6db4")
+		(property "Reference" "R12"
+			(at 180.34 242.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 180.594 244.348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.mx/datasheet/2/427/mcx0x0xpre-1762843.pdf"
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C25531"
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "provedor" "Mouser"
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser#" "594-MCS04020D1002BE0"
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remplazos" ""
+			(at 185.42 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f300add-10bd-4e6a-9814-0709d87a86f0")
+		)
+		(pin "2"
+			(uuid "7017925e-0267-49af-b208-1481ff131aa0")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 16.51 232.41 0)
 		(unit 1)
@@ -24520,7 +24627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/281/GJM1555C1H270FB01_01-1973006.pdf"
+		(property "Datasheet" ""
 			(at 16.51 232.41 0)
 			(effects
 				(font
@@ -24538,7 +24645,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C424826"
 			(at 16.51 232.41 0)
 			(effects
 				(font
@@ -24547,7 +24654,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GJM1555C1H270FB01D"
+		(property "manf#" ""
 			(at 16.51 232.41 0)
 			(effects
 				(font
@@ -24795,6 +24902,109 @@
 		)
 	)
 	(symbol
+		(lib_id "CatSniffer-rescue:SW_Push-Switch-CatStick-rescue-CatSniffer-rescue")
+		(at 140.97 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf1e5ba6-4928-488a-8287-baf06bd88203")
+		(property "Reference" "Button2"
+			(at 140.97 113.411 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW"
+			(at 140.97 115.7224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CatSniffer:TS1088R02026"
+			(at 140.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf"
+			(at 140.97 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C455281"
+			(at 140.97 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 140.97 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "provedor" "LCSC"
+			(at 140.97 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remplazos" ""
+			(at 140.97 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9cba71ef-7bc6-4afa-bdb7-e06ab5683843")
+		)
+		(pin "2"
+			(uuid "b90e49dd-42cc-41cb-9ec2-470fbebfc196")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "Button2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 156.21 228.6 0)
 		(unit 1)
@@ -24831,7 +25041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 156.21 228.6 0)
 			(effects
 				(font
@@ -24849,7 +25059,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 156.21 228.6 0)
 			(effects
 				(font
@@ -24858,7 +25068,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 156.21 228.6 0)
 			(effects
 				(font
@@ -24975,6 +25185,120 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 193.04 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb3a9d87-c928-4510-a4a2-13c0daee579d")
+		(property "Reference" "R11"
+			(at 188.468 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 188.468 239.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.mx/datasheet/2/427/mcx0x0xpre-1762843.pdf"
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C25531"
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "provedor" "Mouser"
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser#" "594-MCS04020D1002BE0"
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remplazos" ""
+			(at 193.04 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "571aa8b1-fede-4202-84a0-e28dddd78422")
+		)
+		(pin "2"
+			(uuid "4a1aa4a3-4073-46e7-b217-7a05bf7dc552")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CatSniffer-rescue:+3V3-power-CatStick-rescue-CatSniffer-rescue")
 		(at 298.45 219.71 0)
 		(unit 1)
@@ -25076,7 +25400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 144.78 251.46 0)
 			(effects
 				(font
@@ -25094,7 +25418,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 144.78 251.46 0)
 			(effects
 				(font
@@ -25103,7 +25427,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 144.78 251.46 0)
 			(effects
 				(font
@@ -25271,7 +25595,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C25100"
 			(at 36.83 182.88 0)
 			(effects
 				(font
@@ -25280,7 +25604,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "ESR01MZPF27R0"
+		(property "manf#" ""
 			(at 36.83 182.88 0)
 			(effects
 				(font
@@ -25358,7 +25682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 247.65 22.225 0)
 			(effects
 				(font
@@ -25367,7 +25691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
+		(property "Datasheet" ""
 			(at 247.65 22.225 0)
 			(effects
 				(font
@@ -25394,7 +25718,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C14663"
+		(property "LCSC#" "C56392"
 			(at 247.65 22.225 0)
 			(effects
 				(font
@@ -25403,7 +25727,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CC0603KRX7R9BB104"
+		(property "manf#" ""
 			(at 247.65 22.225 0)
 			(effects
 				(font
@@ -25593,7 +25917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 370.9162 35.687 0)
 			(effects
 				(font
@@ -25602,7 +25926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311132_Murata-Electronics-GRM1885C1H3R3CA01D_C162225.pdf"
+		(property "Datasheet" ""
 			(at 369.951 31.877 0)
 			(effects
 				(font
@@ -25620,7 +25944,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM1885C1H3R3CA01D"
+		(property "manf#" ""
 			(at 369.951 31.877 0)
 			(effects
 				(font
@@ -25638,7 +25962,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C162225"
+		(property "LCSC#" "C1565"
 			(at 369.951 31.877 0)
 			(effects
 				(font
@@ -25726,7 +26050,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C25531"
 			(at 27.94 105.41 0)
 			(effects
 				(font
@@ -25735,7 +26059,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MCS04020D1002BE000"
+		(property "manf#" ""
 			(at 27.94 105.41 0)
 			(effects
 				(font
@@ -25922,7 +26246,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "VHF160808H9N1JT"
+		(property "manf#" ""
 			(at 376.682 130.937 0)
 			(effects
 				(font
@@ -26066,7 +26390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 115.57 228.6 0)
 			(effects
 				(font
@@ -26084,7 +26408,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 115.57 228.6 0)
 			(effects
 				(font
@@ -26093,7 +26417,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 115.57 228.6 0)
 			(effects
 				(font
@@ -26236,7 +26560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 383.6162 35.433 0)
 			(effects
 				(font
@@ -26245,7 +26569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311132_Murata-Electronics-GRM1885C1H3R3CA01D_C162225.pdf"
+		(property "Datasheet" ""
 			(at 382.651 31.623 0)
 			(effects
 				(font
@@ -26263,7 +26587,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM1885C1H3R3CA01D"
+		(property "manf#" ""
 			(at 382.651 31.623 0)
 			(effects
 				(font
@@ -26281,7 +26605,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C162225"
+		(property "LCSC#" "C1565"
 			(at 382.651 31.623 0)
 			(effects
 				(font
@@ -26473,7 +26797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 306.07 226.06 0)
 			(effects
 				(font
@@ -26587,6 +26911,71 @@
 		)
 	)
 	(symbol
+		(lib_id "CatSniffer-rescue:+3V3-power-CatStick-rescue-CatSniffer-rescue")
+		(at 189.23 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ed70af68-5d33-4bc9-b647-fef0505708d9")
+		(property "Reference" "#PWR098"
+			(at 189.23 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 189.611 228.0158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c52a6619-471a-4250-84c1-25e77a525783")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CatSniffer-rescue:C-Device-CatStick-rescue-CatSniffer-rescue")
 		(at 383.921 135.763 0)
 		(unit 1)
@@ -26613,7 +27002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 384.8862 139.573 0)
 			(effects
 				(font
@@ -26622,7 +27011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311132_Murata-Electronics-GRM1885C1H3R3CA01D_C162225.pdf"
+		(property "Datasheet" ""
 			(at 383.921 135.763 0)
 			(effects
 				(font
@@ -26640,7 +27029,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM1885C1H3R3CA01D"
+		(property "manf#" ""
 			(at 383.921 135.763 0)
 			(effects
 				(font
@@ -26658,7 +27047,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C162225"
+		(property "LCSC#" "C1565"
 			(at 383.921 135.763 0)
 			(effects
 				(font
@@ -26858,7 +27247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf"
+		(property "Datasheet" ""
 			(at 124.46 251.46 0)
 			(effects
 				(font
@@ -26876,7 +27265,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C56392"
 			(at 124.46 251.46 0)
 			(effects
 				(font
@@ -26885,7 +27274,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MSAST105SB7104KFNB25"
+		(property "manf#" ""
 			(at 124.46 251.46 0)
 			(effects
 				(font
@@ -27118,7 +27507,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C11702"
 			(at 38.1 227.33 0)
 			(effects
 				(font
@@ -27127,7 +27516,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MCS0402MD1001DE000"
+		(property "manf#" ""
 			(at 38.1 227.33 0)
 			(effects
 				(font
@@ -27173,6 +27562,109 @@
 			(project "CatSniffer"
 				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CatSniffer-rescue:SW_Push-Switch-CatStick-rescue-CatSniffer-rescue")
+		(at 142.24 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f90dc02d-bdcc-4b86-aca1-9d472646377d")
+		(property "Reference" "Button1"
+			(at 142.24 99.441 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW"
+			(at 142.24 101.7524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CatSniffer:TS1088R02026"
+			(at 142.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf"
+			(at 142.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C455281"
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "provedor" "LCSC"
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remplazos" ""
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45a51b5c-da30-4a25-a2b4-d656d1ab3624")
+		)
+		(pin "2"
+			(uuid "90c7af68-f613-43fd-a106-a522407ecc22")
+		)
+		(instances
+			(project "FlatSat"
+				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
+					(reference "Button1")
 					(unit 1)
 				)
 			)
@@ -27239,7 +27731,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SDFL1608T150KTF"
+		(property "manf#" ""
 			(at 238.76 161.925 0)
 			(effects
 				(font
@@ -27374,7 +27866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 365.252 48.133 0)
 			(effects
 				(font
@@ -27383,7 +27875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf"
+		(property "Datasheet" ""
 			(at 365.252 48.133 0)
 			(effects
 				(font
@@ -27410,7 +27902,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C1588"
+		(property "LCSC#" "C710873 "
 			(at 365.252 48.133 0)
 			(effects
 				(font
@@ -27419,7 +27911,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10B102KB8NNNC"
+		(property "manf#" ""
 			(at 365.252 48.133 0)
 			(effects
 				(font

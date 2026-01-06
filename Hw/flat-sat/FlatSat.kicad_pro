@@ -612,7 +612,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -654,7 +654,7 @@
           "group_by": false,
           "label": "manf#",
           "name": "manf#",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
