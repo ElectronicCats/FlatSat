@@ -7858,12 +7858,6 @@
 		(uuid "444e747e-7a5a-48e5-b5f8-2448644791aa")
 	)
 	(junction
-		(at 189.23 234.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d661200-990f-4ef2-8997-6269bcdd27a8")
-	)
-	(junction
 		(at 252.73 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7916,12 +7910,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a90abfa-2ee4-4664-96f8-4e90e3f5687a")
-	)
-	(junction
-		(at 185.42 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c06fae9-9fa8-4d6a-b2b0-85f750d37f1b")
 	)
 	(junction
 		(at 294.64 238.76)
@@ -8042,12 +8030,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea7f9ed7-21dc-4e1c-b940-4f47dc983173")
-	)
-	(junction
-		(at 193.04 242.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec1ef886-132f-4c5e-ae8d-43a33a0085f6")
 	)
 	(junction
 		(at 371.221 130.937)
@@ -8489,16 +8471,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 242.57) (xy 193.04 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bb8eca1-958a-424a-9689-d43c86e7a4a0")
-	)
-	(wire
-		(pts
 			(xy 93.98 217.17) (xy 104.14 217.17)
 		)
 		(stroke
@@ -8656,16 +8628,6 @@
 			(type default)
 		)
 		(uuid "241f4830-e7b2-4ff2-9cac-cd14f6d31c21")
-	)
-	(wire
-		(pts
-			(xy 189.23 234.95) (xy 193.04 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2474da2a-2257-46e3-9269-f7d2adfe740d")
 	)
 	(wire
 		(pts
@@ -9409,7 +9371,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 247.65) (xy 196.85 247.65)
+			(xy 193.04 247.65) (xy 196.85 247.65)
 		)
 		(stroke
 			(width 0)
@@ -9426,16 +9388,6 @@
 			(type default)
 		)
 		(uuid "510fab81-491f-4092-bb83-fa709721fa27")
-	)
-	(wire
-		(pts
-			(xy 193.04 234.95) (xy 193.04 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "532f098b-da56-4782-99a5-748a6638699a")
 	)
 	(wire
 		(pts
@@ -9676,16 +9628,6 @@
 			(type default)
 		)
 		(uuid "61ee497e-6fa9-447d-95b4-949f3b7e4993")
-	)
-	(wire
-		(pts
-			(xy 193.04 241.3) (xy 193.04 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63a8cd60-dcc3-443e-9643-f16a42e56166")
 	)
 	(wire
 		(pts
@@ -9939,16 +9881,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 241.3) (xy 185.42 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72a6d356-7f15-4858-8770-0fd6eec1c383")
-	)
-	(wire
-		(pts
 			(xy 185.674 162.56) (xy 194.31 162.56)
 		)
 		(stroke
@@ -10016,16 +9948,6 @@
 			(type default)
 		)
 		(uuid "78a28d0c-fcad-4acb-92ea-191039461090")
-	)
-	(wire
-		(pts
-			(xy 185.42 234.95) (xy 189.23 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78bc98fc-21e1-4af4-ace7-37cbf351c7e7")
 	)
 	(wire
 		(pts
@@ -10176,16 +10098,6 @@
 			(type default)
 		)
 		(uuid "7fa4761c-c0c0-4a05-b392-ea88761aef25")
-	)
-	(wire
-		(pts
-			(xy 180.34 247.65) (xy 185.42 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8034f9f9-2a85-4efc-ba97-49caed0540f7")
 	)
 	(wire
 		(pts
@@ -10889,16 +10801,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 232.41) (xy 189.23 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab8a246a-d978-4246-926b-4fbd96404dff")
-	)
-	(wire
-		(pts
 			(xy 57.15 109.22) (xy 68.58 109.22)
 		)
 		(stroke
@@ -11436,16 +11338,6 @@
 			(type default)
 		)
 		(uuid "ce80ab50-6f7a-4a10-b6b4-403e31c64dd1")
-	)
-	(wire
-		(pts
-			(xy 185.42 246.38) (xy 185.42 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ced02d23-f5a3-4fc5-bce1-e206f7c6e0e4")
 	)
 	(wire
 		(pts
@@ -12568,7 +12460,7 @@
 		(uuid "23c355de-ab4b-4fc6-ac3b-ca7c6bdf44f2")
 	)
 	(label "SDA"
-		(at 283.21 243.84 270)
+		(at 284.48 243.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12968,7 +12860,7 @@
 		(uuid "7e4a7315-8910-4d1b-a60b-4d399c9a9985")
 	)
 	(label "SCL"
-		(at 180.34 247.65 0)
+		(at 193.04 247.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12998,7 +12890,7 @@
 		(uuid "7f034590-cf5e-449e-a740-c65c9234f5d0")
 	)
 	(label "SCL"
-		(at 283.21 238.76 270)
+		(at 284.48 238.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13258,7 +13150,7 @@
 		(uuid "c6c3a92b-870a-441c-bf01-c46480ee0992")
 	)
 	(label "SDA"
-		(at 187.96 242.57 0)
+		(at 193.04 242.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14665,7 +14557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
+		(property "Footprint" "FlatSat:TS1088R02026"
 			(at 107.95 119.38 0)
 			(effects
 				(font
@@ -15331,7 +15223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
+		(property "Footprint" "FlatSat:TS1088R02026"
 			(at 107.95 101.6 0)
 			(effects
 				(font
@@ -21757,7 +21649,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C110926"
+		(property "LCSC#" "C155670"
 			(at 207.01 245.11 0)
 			(effects
 				(font
@@ -26296,120 +26188,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 185.42 243.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b920ff96-78fc-4ff1-b2a0-6595d91c6db4")
-		(property "Reference" "R12"
-			(at 180.34 242.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 180.594 244.348 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/427/mcx0x0xpre-1762843.pdf"
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C25531"
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" ""
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "Mouser"
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser#" "594-MCS04020D1002BE0"
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" ""
-			(at 185.42 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6f300add-10bd-4e6a-9814-0709d87a86f0")
-		)
-		(pin "2"
-			(uuid "7017925e-0267-49af-b208-1481ff131aa0")
-		)
-		(instances
-			(project "FlatSat"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 16.51 232.41 0)
 		(unit 1)
@@ -26827,7 +26605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
+		(property "Footprint" "FlatSat:TS1088R02026"
 			(at 140.97 115.57 0)
 			(effects
 				(font
@@ -27080,120 +26858,6 @@
 			(project "CatSniffer"
 				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 193.04 238.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cb3a9d87-c928-4510-a4a2-13c0daee579d")
-		(property "Reference" "R11"
-			(at 188.468 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 188.468 239.268 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.mx/datasheet/2/427/mcx0x0xpre-1762843.pdf"
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C25531"
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" ""
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "provedor" "Mouser"
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser#" "594-MCS04020D1002BE0"
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Remplazos" ""
-			(at 193.04 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "571aa8b1-fede-4202-84a0-e28dddd78422")
-		)
-		(pin "2"
-			(uuid "4a1aa4a3-4073-46e7-b217-7a05bf7dc552")
-		)
-		(instances
-			(project "FlatSat"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -28877,71 +28541,6 @@
 		)
 	)
 	(symbol
-		(lib_id "CatSniffer-rescue:+3V3-power-CatStick-rescue-CatSniffer-rescue")
-		(at 189.23 232.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed70af68-5d33-4bc9-b647-fef0505708d9")
-		(property "Reference" "#PWR098"
-			(at 189.23 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 189.611 228.0158 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.23 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 189.23 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c52a6619-471a-4250-84c1-25e77a525783")
-		)
-		(instances
-			(project "FlatSat"
-				(path "/6e68f0cd-800e-4167-9553-71fc59da1eeb"
-					(reference "#PWR098")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CatSniffer-rescue:C-Device-CatStick-rescue-CatSniffer-rescue")
 		(at 383.921 135.763 0)
 		(unit 1)
@@ -29558,7 +29157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
+		(property "Footprint" "FlatSat:TS1088R02026"
 			(at 142.24 101.6 0)
 			(effects
 				(font
