@@ -14,8 +14,11 @@ Flatsat uses ISM (Industrial, Scientific, and Medical) band frequencies for all 
 We do not use sensitive or restricted space communication bands like:
 
 ❌ X-band
+
 ❌ Ka-band
+
 ❌ S-band
+
 This ensures that Flatsat does not interfere with any production space systems, licensed satellites, or critical ground infrastructure.
 
 Flatsat is designed to help you learn and prototype radio systems safely and legally — all while gaining real-world skills in RF communication, signal analysis, and protocol fuzzing.
