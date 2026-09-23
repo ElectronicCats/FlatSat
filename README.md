@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/ElectronicCats/FlatSat/wiki">
-        <img src="https://private-user-images.githubusercontent.com/107638696/595693319-c0883c17-046c-4819-b3c2-2ec70a0c5052.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxODU3NjUsIm5iZiI6MTc5MDE4NTQ2NSwicGF0aCI6Ii8xMDc2Mzg2OTYvNTk1NjkzMzE5LWMwODgzYzE3LTA0NmMtNDgxOS1iM2MyLTJlYzcwYTBjNTA1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyM1QxNzQ0MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZmNhNDRmYWJlYjg2MjM2MDI1NDYxZWE5ZGI0MjQ1ZmVlMTU5ZjFlMjJhZWMzOWZmMDM3NTAxMzAyNzhiODQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.w7o1E5vLxBv-ZUyTXhozGGkPR1CDQmx8iTPpdER1_4Q" width=70%>
+        <img src="https://private-user-images.githubusercontent.com/107638696/595693319-c0883c17-046c-4819-b3c2-2ec70a0c5052.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAxOTE2MTEsIm5iZiI6MTc5MDE5MTMxMSwicGF0aCI6Ii8xMDc2Mzg2OTYvNTk1NjkzMzE5LWMwODgzYzE3LTA0NmMtNDgxOS1iM2MyLTJlYzcwYTBjNTA1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyM1QxOTIxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZGFhZWUyM2FkNTAwYmU5YTljMWQ2OTc5YzA3YzA4ZjgxMWJkYTE3NDhlNjJjYjBiOTdlNTkyNzBhNWI4Y2JhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.7IfkX0f9DTbWNKQIJjl4vGQzU_LSV2SPomvP7GhOxqU" width=70%>
     </a>
 </p>
 
@@ -27,7 +27,7 @@ Flatsat is designed to help you learn and prototype radio systems safely and leg
 - **Prototype Your Payloads:**  Use the onboard components to develop and test your own payload logic, radio communication, or telemetry systems before launching bigger projects.
 
 > [!IMPORTANT]
-> This project was created for educational purposes, to teach and learn aerospace cybersecurity. Neither PWNSAT nor Electronic Cats are responsible for how the knowledge, code, or tools hosted in the official repository are used. Use only against hardware, firmware, or signal sources you own or are explicitly authorized to test.   
+> **This project was created for educational purposes, to teach and learn aerospace cybersecurity. Neither PWNSAT nor Electronic Cats are responsible for how the knowledge, code, or tools hosted in the official repository are used. Use only against hardware, firmware, or signal sources you own or are explicitly authorized to test.**
 > 
 > Flatsat uses ISM (Industrial, Scientific, and Medical) band frequencies for all RF communication,  typically 433 MHz or 915 MHz, depending on your region. These frequencies are internationally reserved for unlicensed, experimental, and educational use.
 >
