@@ -10,7 +10,7 @@
     <a href="https://electroniccats.com/store/flatsat1/">
         <img src="https://github.com/ElectronicCats/flipper-shields/assets/44976441/0c617467-052b-4ab1-a3b9-ba36e1f55a91" width="200" height="104" />
     </a>
-    <a href="hhttps://github.com/ElectronicCats/FlatSat/wiki">
+    <a href="https://github.com/ElectronicCats/FlatSat/wiki">
         <img src="https://github.com/ElectronicCats/flipper-shields/assets/44976441/6aa7f319-3256-442e-a00d-33c8126833ec" width="200" height="104" />
     </a>
 </p>
@@ -73,7 +73,7 @@ Contributions are welcome!
 
 Please read the document [**Contribution manual**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-contribution-manual.md) which will show you how to contribute your changes to the project.
 
-✨ Thanks to all our [Contributors](https://github.com/ElectronicCats/Munchkin/graphs/contributors)! ✨
+✨ Thanks to all our [Contributors](https://github.com/ElectronicCats/Flatsat/graphs/contributors)! ✨
 
 See [**_Electronic Cats CLA_**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-cla.md) for more information.
 
